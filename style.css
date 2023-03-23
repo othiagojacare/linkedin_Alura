@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-color: black;
+    color: azure;
+}
+
+.container{
+    margin: 24px 506px 61px 154px;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: column;
+}
+
+.cabecalho_perfil{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+}
